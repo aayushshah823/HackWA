@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".NewEventActivity" />
+        <activity android:name=".EventViewModel" />
+        <activity android:name=".EventRepository" />
+        <activity android:name=".EventDao" />
+        <activity android:name=".EventRoomDatabase" />
+        <activity android:name=".EventListAdapter"></activity>
     </application>
 
 </manifest>

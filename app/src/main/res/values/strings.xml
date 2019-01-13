@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HackWACalendar</string>
+    <string name="hint_word">Event...</string>
+    <string name="button_save">Save</string>
+    <string name="unable_to_update">Unable to edit data</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+
 </resources>
